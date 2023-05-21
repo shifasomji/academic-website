@@ -63,7 +63,7 @@ All fields should be given. Again, pictures should be placed in `/src/media/` an
 
 Before your site is ready, there are two final changes.
 
-1. In `/public/index.html`, change the `<title>` on [line 11](https://github.com/amanirmk/academic-website/blob/4d3d20079b9e40fbfe526d7853d9a1cb1e4aeba9/public/index.html#L11) to your name. This will make sure the name is displayed correctly even before the site has loaded.
+1. In `/public/index.html`, change the `<title>` on [line 11](https://github.com/amanirmk/academic-website/blob/20c23b057ecafe35e81196564539ce1f57aef6c9/public/index.html#L11) to your name. This will make sure the name is displayed correctly even before the site has loaded.
 2. Use https://favicon.io to create your own website icon! Drop the resulting files in `/public/` and allow it to overwrite the existing ones.
 
 Congrats! You're done, the site is ready! If you're now wondering where to host it, I've had success with the free hobby tier of [Vercel](https://vercel.com/).
