@@ -2,7 +2,7 @@ const preparation = [
   {
     year: 2023,
     title: "The Algorithmic Search Framework",
-    author_span: <span>Hana Ahmed, Amani Maina-Kilaas, <b>Shifa Somji</b>, Sarah Embry, Isabel Duan, Cynthia Hom, and George Montanez</span>,
+    author_span: <span>Hana Ahmed, Amani Maina-Kilaas, <b>Shifa Somji</b>, Sarah Embry, Isabel Duan, Cynthia Hom, George Montanez</span>,
   },
 ];
 
@@ -18,7 +18,7 @@ const publications = [
   {
     year: 2023,
     title: "xenoGI 3: using the DTLOR model to reconstruct the evolution of gene families in clades of microbes",
-    author_span: <span>Nuo Liu, Tonatiuh Gonzalez, Jacob Fischer, Chan Hong, Michelle Johnson, Ross Mawhorter, Fabrizia Mugnatto, Rachael Soh, <b>Shifa Somji</b>, Joseph Wirth, Ran Libeskind-Hadas and Eliot Bush</span>,
+    author_span: <span>Nuo Liu, Tonatiuh Gonzalez, Jacob Fischer, Chan Hong, Michelle Johnson, Ross Mawhorter, Fabrizia Mugnatto, Rachael Soh, <b>Shifa Somji</b>, Joseph Wirth, Ran Libeskind-Hadas, Eliot Bush</span>,
     location: "BMC Bioinformatics",
     pdf: "xenoGI.pdf",
     doi: "https://link.springer.com/article/10.1186/s12859-023-05410-0",
