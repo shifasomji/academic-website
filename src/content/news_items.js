@@ -9,13 +9,13 @@ export const news_items = [
   },
   {
     pic: newsitem_pic,
-    year: 2022,
-    text_p: <p>Congue eu consequat ac felis donec et odio pellentesque diam.</p>
+    year: 2024,
+    text_p: <p>Received the <a href="https://www.purdue.edu/research/rche/students/student-support.php">John W. Anderson Foundation</a> scholarship, which supports researchers interested in healthcare engineering.</p>
   },
   {
     pic: newsitem_pic,
     year: 2021,
-    text_p: <p>In nibh mauris cursus mattis molestie a iaculis at. Tempor nec feugiat nisl pretium fusce id velit ut tortor.</p>
+    text_p: <p>Received the <a href="https://www.hmc.edu/about/2024/05/01/celebrating-hmc-community-leaders/#:~:text=Dean%20Sundberg%20Prize,-Ethan%20Sandoval%20'26&text=Established%20by%20Dana%20Seaton%20'06,impact%20on%20the%20College%20community.">Dean Chris Sundberg Prize</a>, recognizing a HMC junior who demonstrates exceptional leadership and has a positive impact on HMC community.</p>
   },
   {
     pic: newsitem_pic,
