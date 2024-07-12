@@ -1,10 +1,10 @@
-import newsitem_pic from '../media/newsitem_pic.jpg';
+import Graduation from '../media/Graduation.jpg';
 
 export const news_items = [
   {
-    pic: newsitem_pic,
+    pic: Graduation,
     year: 2023,
-    text_p: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    text_p: <p>Graduated from HMC with high distinction and honors. Earned the <a href="https://www.hmc.edu/cs/student-awards/">Class of '94</a> award, the CS department's top award.</p>
   },
   {
     pic: newsitem_pic,

@@ -1,5 +1,6 @@
 const preparation = [
   {
+    year: 2023,
     title: "The Algorithmic Search Framework",
     author_span: <span>Hana Ahmed, Amani Maina-Kilaas, <b>Shifa Somji</b>, Sarah Embry, Isabel Duan, Cynthia Hom, and George Montanez</span>,
   },
