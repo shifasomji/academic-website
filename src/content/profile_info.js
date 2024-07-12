@@ -1,7 +1,7 @@
 import johndoe_headshot from '../media/Shifa4.jpeg';
 
 // any css-accepted format
-export const accent_color = "#ddb945";
+export const accent_color = "#daaa00";
 
 export const name = "Shifa Somji";
 
