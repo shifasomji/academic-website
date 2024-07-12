@@ -1,46 +1,26 @@
 const preparation = [
   {
-    title: "Paper title pellentesque habitant morbi tristique senectus et netus et.",
-    author_span: <span>Author, <b>John Doe</b>, Author, Author, and Author</span>,
-  },
-  {
-    title: "Paper title tincidunt vitae semper quis lectus nulla at volutpat.",
-    author_span: <span>Author<sup>&dagger;</sup>, <b>John Doe<sup>&dagger;</sup></b>, Author, Author, Author, and Author</span>
+    title: "The Algorithmic Search Framework",
+    author_span: <span>Hana Ahmed, Amani Maina-Kilaas, <b>Shifa Somji</b>, Sarah Embry, Isabel Duan, Cynthia Hom, and George Montanez</span>,
   },
 ];
 
 const publications = [
   {
+    year: 2024,
+    title: "Language Alignment in Older Adults with Socially Assistive Robots: Implications for Aphasia Rehabilitation",
+    author_span: <span><b>Shifa Somji</b>, Guven Gergerli, Jiyeon Lee, Sooyeon Jeong </span>,
+    location: "62nd Annual Meeting of the Academy of Aphasia",
+    pdf: "AoA_Abstract.pdf",
+    doi: "",
+  },
+  {
     year: 2023,
-    title: "Paper title bibendum enim facilisis gravida neque convallis a cras.",
-    author_span: <span>Author, <b>John Doe</b>, Author, Author and Author</span>,
-    location: "57th Annual Conference on the Earth",
+    title: "xenoGI 3: using the DTLOR model to reconstruct the evolution of gene families in clades of microbes",
+    author_span: <span>Nuo Liu, Tonatiuh Gonzalez, Jacob Fischer, Chan Hong, Michelle Johnson, Ross Mawhorter, Fabrizia Mugnatto, Rachael Soh, <b>Shifa Somji</b>, Joseph Wirth, Ran Libeskind-Hadas and Eliot Bush</span>,
+    location: "BMC Bioinformatics",
     pdf: "paper1.pdf",
-    doi: "https://www.doi.org/",
-    code: "https://github.com/",
-  },
-  {
-    year: 2022,
-    title: "Paper title velit ut tortor pretium viverra suspendisse potenti nullam.",
-    author_span: <span><b>John Doe</b>, Author, Author, Author, and Author</span>,
-    location: "2022 IEEE Conference on Computers and More",
-    pdf: "paper2.pdf",
-    doi: "https://www.doi.org/",
-  },
-  {
-    year: 2021,
-    title: "Paper title tristique senectus et netus et malesuada fames ac.",
-    author_span: <span><b>John Doe</b>, Author, Author, and Author</span>,
-    location: "2021 IEEE Congress on Fancy Computation",
-    doi: "https://www.doi.org/",
-    code: "https://github.com/",
-  },
-  {
-    year: 2020,
-    title: "Paper title faucibus interdum posuere lorem ipsum dolor sit amet.",
-    author_span: <span>Author<sup>&dagger;</sup>, <b>John Doe<sup>&dagger;</sup></b>, Author, Author, and Author</span>,
-    location: "13th International Conference on a Very Cool Topic",
-    doi: "https://www.doi.org/",
+    doi: "https://link.springer.com/article/10.1186/s12859-023-05410-0",
   },
 ];
 
