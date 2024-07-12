@@ -1,4 +1,5 @@
 import Graduation from '../media/Graduation.jpg';
+import newsitem_pic from '../media/newsitem_pic.jpg';
 
 export const news_items = [
   {
