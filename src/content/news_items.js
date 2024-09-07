@@ -1,4 +1,4 @@
-import Graduation from '../media/Graduation.jpg';
+import Graduation from '../media/Klawe.jpg';
 import newsitem_pic from '../media/newsitem_pic.jpg';
 import Regenstrief from '../media/Regenstrief.png';
 import HMC from '../media/HMC.png';
