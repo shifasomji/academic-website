@@ -3,10 +3,17 @@ import newsitem_pic from '../media/newsitem_pic.jpg';
 import Regenstrief from '../media/Regenstrief.png';
 import HMC from '../media/HMC.png';
 import Dodds from '../media/Graduation.jpg';
+import Academy from '../media/AcademyAphasia.jpeg';
+import Jiyeon from '../media/Jiyeon.jpg';
 
 export const news_items = [
   {
-    pic: Regenstrief,
+    pic: Academy,
+    year: 2024,
+    text_p: <p>Attended the 62nd Annual Meeting of the Academy of Aphasia in Nara, Japan and received the Young Investigators Fellowship</p>
+  }, 
+  {
+    pic: Jiyeon,
     year: 2024,
     text_p: <p>Received the <a href="https://www.purdue.edu/research/rche/students/student-support.php">John W. Anderson Foundation</a> scholarship, which supports researchers interested in healthcare engineering.</p>
   },
