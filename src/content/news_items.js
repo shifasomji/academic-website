@@ -10,7 +10,7 @@ export const news_items = [
   {
     pic: Academy,
     year: 2024,
-    text_p: <p>Attended the 62nd Annual Meeting of the Academy of Aphasia in Nara, Japan and received the Young Investigators Fellowship</p>
+    text_p: <p>Attended the <a href="https://academyofaphasia2024.vfairs.com/en/#about">62nd Annual Meeting of the Academy of Aphasia</a> in Nara, Japan and received the Young Investigators Fellowship.</p>
   }, 
   {
     pic: Jiyeon,
