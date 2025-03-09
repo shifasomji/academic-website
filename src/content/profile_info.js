@@ -8,7 +8,7 @@ export const name = "Shifa Somji";
 export const profile_pic = johndoe_headshot;
 
 export const introduction = <div>
-  <p>I am a first-year PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, advised by <a href="https://www.sooyeonjeong.com/home">Sooyeon Jeong</a> in the <a href="https://human-agent-interaction.github.io/HAI-website/">Human-Agent Interaction Lab</a>. My current interests lie in human-robot interaction and full-stack robotics, focusing on enabling robots to interact with the physical world safely, fluently, and naturally. I aspire to build systems that integrate perception, prediction, planning, and control in the real world. </p>
+  <p>I am a second-year PhD student at <a href="https://www.cs.purdue.edu/">Purdue Computer Science</a>, advised by <a href="https://www.sooyeonjeong.com/home">Sooyeon Jeong</a> in the <a href="https://human-agent-interaction.github.io/HAI-website/">Human-Agent Interaction Lab</a>. My current interests lie in human-robot interaction and full-stack robotics, focusing on enabling robots to interact with the physical world safely, fluently, and naturally. I aspire to build systems that integrate perception, prediction, planning, and control in the real world. </p>
   <p>I previously earned my Bachelor's with high distinction and departmental honors in Computer Science from <a href="https://www.hmc.edu/about/">Harvey Mudd College</a>, where I worked with <a href="https://www.linkedin.com/in/georgemontanez/">George Montanez</a> in the <a href="https://www.cs.hmc.edu/~montanez/amistad.html">AMISTAD lab</a> and <a href="https://www.hmc.edu/biology/faculty-staff/bush/">Eliot Bush</a> in the <a href="https://sites.google.com/a/g.hmc.edu/bushlab/">Bush lab</a>.</p>
 </div>;
 
