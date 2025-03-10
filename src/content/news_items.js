@@ -5,7 +5,7 @@ import HMC from '../media/HMC.png';
 import Dodds from '../media/Graduation.jpg';
 import Academy from '../media/AcademyAphasia.jpeg';
 import Jiyeon from '../media/Jiyeon.jpg';
-import Basketball from '../media/PurdueBasketball.jpg'
+import Basketball from '../media/Basketball.jpg'
 
 export const news_items = [
   {
