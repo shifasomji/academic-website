@@ -11,7 +11,7 @@ export const news_items = [
   {
     pic: Basketball,
     year: 2025,
-    text_p: <p>Showcased our lab's robots at the Purdue vs. UCLA basketball game.</p>
+    text_p: <p>Showcased our lab's robots at the <a href="https://www.linkedin.com/posts/purduescience_ai-machinelearning-purduescience-activity-7302451302070984704-8GiI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACJREDABBchL4fKMBBxkmvSXxYaBucsmjco">Purdue vs. UCLA basketball game.</a></p>
   }, 
   {
     pic: Academy,
