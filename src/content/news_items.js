@@ -5,8 +5,14 @@ import HMC from '../media/HMC.png';
 import Dodds from '../media/Graduation.jpg';
 import Academy from '../media/AcademyAphasia.jpeg';
 import Jiyeon from '../media/Jiyeon.jpg';
+import Basketball from '../media/PurdueBasketball.jpg'
 
 export const news_items = [
+  {
+    pic: Basketball,
+    year: 2025,
+    text_p: <p>Showcased our lab's robots at the Purdue vs. UCLA basketball game.</p>
+  }, 
   {
     pic: Academy,
     year: 2024,
