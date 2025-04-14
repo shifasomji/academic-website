@@ -5,9 +5,15 @@ import HMC from '../media/HMC.png';
 import Dodds from '../media/Graduation.jpg';
 import Academy from '../media/AcademyAphasia.jpeg';
 import Jiyeon from '../media/Jiyeon.jpg';
-import Basketball from '../media/Basketball.jpg'
+import Basketball from '../media/Basketball.jpg';
+import SpringFest from '../media/SpringFest.jpg';
 
 export const news_items = [
+  {
+    pic: SpringFest,
+    year: 2025,
+    text_p: <p>Demoed our lab's robots to the Purdue community at <a href="https://ag.purdue.edu/springfest/index.html">SpringFest.</a></p>
+  }, 
   {
     pic: Basketball,
     year: 2025,
