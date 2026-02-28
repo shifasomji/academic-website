@@ -13,7 +13,7 @@ export const news_items = [
   {
     pic: Masters,
     year: 2025,
-    text_p: <p>Received my Masters in Computer Science at Purdue.</p>
+    text_p: <p>Received my M.S. in Computer Science at Purdue along the way of my PhD journey.</p>
   }, 
   {
     pic: SpringFest,
