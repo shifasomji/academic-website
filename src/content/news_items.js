@@ -7,8 +7,14 @@ import Academy from '../media/AcademyAphasia.jpeg';
 import Jiyeon from '../media/Jiyeon.jpg';
 import Basketball from '../media/Basketball.jpg';
 import SpringFest from '../media/SpringFest.jpg';
+import Masters from '../media/Masters.jpg';
 
 export const news_items = [
+  {
+    pic: Masters,
+    year: 2025,
+    text_p: <p>Received my Masters in Computer Science at Purdue.</p>
+  }, 
   {
     pic: SpringFest,
     year: 2025,
