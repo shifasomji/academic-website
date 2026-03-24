@@ -8,6 +8,14 @@ const preparation = [
 
 const publications = [
   {
+    year: 2026,
+    title: "Personalization of Speech Therapy Treatment with Socially Assistive Robots",
+    author_span: <span><b>Shifa Somji</b>, Jiyeon Lee, Sooyeon Jeong </span>,
+    location: "CHI Conference on Human Factors in Computing Systems",
+    pdf: "",
+    doi: "",
+  },
+  {
     year: 2024,
     title: "Language Alignment in Older Adults with Socially Assistive Robots: Implications for Aphasia Rehabilitation",
     author_span: <span><b>Shifa Somji</b>, Guven Gergerli, Jiyeon Lee, Sooyeon Jeong </span>,
