@@ -1,8 +1,17 @@
 const preparation = [
   {
+    year: 2026,
+    title: "Beyond Surveys: Predicting Student Well-being from Open-ended Video Responses using LLMs",
+    author_span: <span>Thu Bui, <b>Shifa Somji</b>, Hillary Merzdorf, Nan Kong, Louis Tay, Sooyeon Jeong</span>,
+    location: "",
+    pdf: "",
+    doi: "",
+  },
+  {
     year: 2023,
     title: "The Algorithmic Search Framework",
     author_span: <span>Hana Ahmed, Amani Maina-Kilaas, <b>Shifa Somji</b>, Sarah Embry, Isabel Duan, Cynthia Hom, George Montanez</span>,
+    pdf: "ASF.pdf",
   },
 ];
 
@@ -12,7 +21,7 @@ const publications = [
     title: "Personalization of Speech Therapy Treatment with Socially Assistive Robots",
     author_span: <span><b>Shifa Somji</b>, Jiyeon Lee, Sooyeon Jeong </span>,
     location: "CHI Conference on Human Factors in Computing Systems",
-    pdf: "",
+    pdf: "SAR_Paper.pdf",
     doi: "",
   },
   {
