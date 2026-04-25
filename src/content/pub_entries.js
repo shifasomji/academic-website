@@ -20,7 +20,7 @@ const publications = [
     year: 2026,
     title: "Personalization of Speech Therapy Treatment with Socially Assistive Robots",
     author_span: <span><b>Shifa Somji</b>, Jiyeon Lee, Sooyeon Jeong </span>,
-    location: "CHI Conference on Human Factors in Computing Systems",
+    location: "Toward Relationship-Centered Care with AI: Designing for Human Connections in Healthcare - CHI Conference on Human Factors in Computing Systems",
     pdf: "SAR_Paper.pdf",
     doi: "",
   },
