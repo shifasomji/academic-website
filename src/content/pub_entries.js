@@ -1,13 +1,5 @@
 const preparation = [
   {
-    year: 2026,
-    title: "Beyond Surveys: Predicting Student Well-being from Open-ended Video Responses using LLMs",
-    author_span: <span>Thu Bui, <b>Shifa Somji</b>, Hillary Merzdorf, Nan Kong, Louis Tay, Sooyeon Jeong</span>,
-    location: "",
-    pdf: "",
-    doi: "",
-  },
-  {
     year: 2023,
     title: "The Algorithmic Search Framework",
     author_span: <span>Hana Ahmed, Amani Maina-Kilaas, <b>Shifa Somji</b>, Sarah Embry, Isabel Duan, Cynthia Hom, George Montanez</span>,
@@ -16,6 +8,22 @@ const preparation = [
 ];
 
 const publications = [
+  {
+    year: 2026,
+    title: "Proactive Teachability in Socially Assistive Robots through Uncertainty-Aware Clarification",
+    author_span: <span><b>Shifa Somji</b>, Zachary Kingston</span>,
+    location: "",
+    pdf: "",
+    doi: "",
+  },
+  {
+    year: 2026,
+    title: "Beyond Surveys: Predicting Student Well-being from Open-ended Video Responses using LLMs",
+    author_span: <span>Thu Bui, <b>Shifa Somji</b>, Hillary Merzdorf, Nan Kong, Louis Tay, Sooyeon Jeong</span>,
+    location: "",
+    pdf: "Wellbeing.pdf",
+    doi: "",
+  },
   {
     year: 2026,
     title: "Personalization of Speech Therapy Treatment with Socially Assistive Robots",
