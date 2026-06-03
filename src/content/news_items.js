@@ -8,8 +8,14 @@ import Jiyeon from '../media/Jiyeon.jpg';
 import Basketball from '../media/Basketball.jpg';
 import SpringFest from '../media/SpringFest.jpg';
 import Masters from '../media/Masters.png';
+import PayPal from '../media/PayPal.jpeg';
 
 export const news_items = [
+  {
+    pic: PayPal,
+    year: 2026,
+    text_p: <p>Started as an Agentic Engineering PhD Intern on PayPal's Agentic AI team.</p>
+  },
   {
     pic: Masters,
     year: 2025,
