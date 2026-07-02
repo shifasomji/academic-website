@@ -13,7 +13,7 @@ const publications = [
     title: "Proactive Teachability in Socially Assistive Robots through Uncertainty-Aware Clarification",
     author_span: <span><b>Shifa Somji</b>, Zachary Kingston</span>,
     location: "",
-    pdf: "",
+    pdf: "Teachability.pdf",
     doi: "",
   },
   {
