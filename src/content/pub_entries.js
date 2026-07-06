@@ -20,7 +20,7 @@ const publications = [
     year: 2026,
     title: "Beyond Surveys: Predicting Student Well-being from Open-ended Video Responses using LLMs",
     author_span: <span>Thu Bui, <b>Shifa Somji</b>, Hillary Merzdorf, Nan Kong, Louis Tay, Sooyeon Jeong</span>,
-    location: "",
+    location: "ACM International Conference on Multimodal Interaction",
     pdf: "Wellbeing.pdf",
     doi: "",
   },
